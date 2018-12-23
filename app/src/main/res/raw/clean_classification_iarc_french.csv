@@ -1,0 +1,891 @@
+id,Agent,Group
+0,Formaldéhyde,1
+1,Phénobarbital,2B
+2,Mitomycine C,2B
+3,Cyclophosphamide,1
+4,"DDT (4,4'-dichlorodiphényltrichloroéthane)",2A
+5,Benzo [a] pyrène,1
+6,Phénylbutazone,3
+7,Citrate de clomifène,3
+8,6-mercaptopurine,3
+9,Reserpine,3
+10,Actinomycine D,3
+11,Chlorhydrate de Pronetalol,3
+12,Butoxyde de pipéronyle,3
+13,2.4.6-Tris (1-aziridinyl) -s-triazine,3
+14,5-fluorouracile,3
+15,Propylthiouracil,2B
+16,Moutarde à l'azote,2A
+17,Carbamate d'éthyle (uréthane),2A
+18,Spironolactone,3
+19,Thiotepa,1
+20,Apholate,3
+21,Trichlorfon,3
+22,Prednisone,3
+23,Dibenz [a.h] anthracène,2A
+24,Chloroquine,3
+25,Furosémide (Frusémide),3
+26,Hydrazide d'acide isonicotinique (Isoniazid),3
+27,N-nitrosodiéthylamine,2A
+28,"1,4-butanediol diméthanesulfonate",1
+29,Busulfan,1
+30,Myleran,1
+31,Méthylthiouracil,2B
+32,Le tétrachlorure de carbone,2B
+33,Cantharidine,3
+34,Parathion,2B
+35,Diethylstilbestrol,1
+36,Benz [a] anthracène,2B
+37,Chloramphénicol,2A
+38,Isothiocyanate d'allyle,3
+39,1.1-Diméthylhydrazine,2B
+40,L'oxyde de tris (2-méthyl-1-aziridinyl) phosphine,3
+41,Phénytoïne,2B
+42,bêta-propiolactone,2B
+43,Sulfaméthazine,3
+44,Chlordane,2B
+45,Cholestérol,3
+46,Caféine,3
+47,Pyriméthamine,3
+48,Théophylline,3
+49,Lindane (voir Hexachlorocyclohexanes),1
+50,Hydrochlorothiazide,2B
+51,Méthotrexate,3
+52,Nitrofural (Nitrofurazone),3
+53,N-nitrosomorpholine,2B
+54,para-Aminoazobenzène,2B
+55,para-diméthylaminoazobenzène,2B
+56,Acétamide,2B
+57,Méthimazole,3
+58,Dieldrin,2A
+59,Dieldrin. et l'aldrine métabolisée en dieldrine,2A
+60,Niridazole,2B
+61,Amitrole,3
+62,Phénacétine,1
+63,Méthanesulfonate d'éthyle,2B
+64,Aniline,3
+65,Thioacétamide,2B
+66,Thiourée,3
+67,Dichlorvos,2B
+68,N-nitrosodiméthylamine,2A
+69,Carbaryl,3
+70,Chlorhydrate de phénoxybenzamine,2B
+71,L'éthanol dans les boissons alcoolisées,1
+72,Sulfate de diéthyle,2A
+73,Méthanesulfonate de méthyle,2A
+74,Uracil moutarde,2B
+75,Nitrofurantoin,3
+76,Furazolidone,3
+77,Alcool isopropylique,3
+78,Chloroforme,2B
+79,Hexachloroéthane,2B
+80,Diméthylformamide,2A
+81,Tris (aziridinyl) -para-benzoquinone (Triaziquone),3
+82,Ampicilline,3
+83,N-méthyl-N'-nitro-N-nitrosoguanidine (MNNG),2A
+84,Hexachlorophène,3
+85,Benzène,1
+86,1.1.1-Trichloroéthane,3
+87,Acétate de médroxyprogestérone,2B
+88,Endrine,3
+89,Méthoxychlore,3
+90,Bleu Trypan,2B
+91,Bromure de méthyle,3
+92,Éthylène,3
+93,Chlorure de méthyle,3
+94,Iodure de méthyle,3
+95,Bromoéthane,3
+96,Chloroéthane,3
+97,Chlorure de vinyle,1
+98,Fluorure de vinyle,2A
+99,Acétaldéhyde,2B
+100,Acétaldéhyde associé à la consommation de boissons alcoolisées,1
+101,Dichlorométhane (chlorure de méthylène),2A
+102,Oxyde d'éthylène,1
+103,Bromoform,3
+104,Bromodichlorométhane,2B
+105,Chlorure de vinylidène,2B
+106,Fluorure de vinylidène,3
+107,Chlorodifluorométhane,3
+108,Nitrométhane,2B
+109,2-méthylaziridine (propylèneimine),2B
+110,Oxyde de propylène,2B
+111,Acide diméthylarsinique,2B
+112,Chloral,2A
+113,2-Chloro-1.1.1-trifluoroéthane,3
+114,Pentachloroéthane,3
+115,Acide trichloroacetic,2B
+116,Heptachlor,2B
+117,Phenolphthaléine,2B
+118,Sulfate de diméthyle,2A
+119,Isoprène,2B
+120,1.2-Dichloropropane,1
+121,Méthylglyoxal,3
+122,1.1.2-Trichloroéthane,3
+123,Trichloréthylène,1
+124,Acrylamide,2A
+125,Acide acrylique,3
+126,1.1.2.2-Tétrachloroéthane,2B
+127,Acide dichloroacétique,2B
+128,Le chlorure de diméthylcarbamoyle,2A
+129,2-nitropropane,2B
+130,Tétrabromobisphénol A,2A
+131,Dapsone,3
+132,Le méthacrylate de méthyle,3
+133,Saccharine et ses sels,3
+134,Musk xylène,3
+135,"1-Amino-2,4-dibromoanthraquinone",2B
+136,Rhodamine B,3
+137,1-Amino-2-méthylanthraquinone,3
+138,Quintozène (pentachloronitrobenzène),3
+139,Acénaphtène,3
+140,Diacétylaminoazotoluène,3
+141,Ambrette de musc,3
+142,Théobromine,3
+143,Anthraquinone,2B
+144,Phénanthrène,3
+145,Phtalate de butyle et de benzyle,3
+146,Rouge écarlate,3
+147,Jaune AB,3
+148,Soudan III,3
+149,N-nitrosodiphénylamine,3
+150,Hydralazine,3
+151,1-nitronaphtalène,3
+152,Fluorène,3
+153,Carbazole,2B
+154,1-Naphthylthiourée (ANTU),3
+155,Cinnamyl anthranilate,3
+156,"2,6-diméthylaniline (2,6-xylidine)",2B
+157,Hexachlorobutadiène,3
+158,Pentachlorophénol (voir Polychlorophénols),1
+159,2.4.6-Triméthylaniline,3
+160,2.4.6-Trichlorophénol (voir Polychlorophénols),2B
+161,N-Vinyl-2-pyrrolidone,3
+162,2-nitrotoluène,2A
+163,Chloronitrobenzènes,3
+164,Pulegone,2B
+165,ortho-anisidine,2B
+166,ortho-phénylphénol,3
+167,Acide pénicillique,3
+168,"Cétone de Michler [4,4'-bis (diméthylamino) benzophénone]",2B
+169,Naphtaline,2B
+170,2-nitroanisole,2B
+171,2-naphtylamine,1
+172,Coumarin,3
+173,"3,3'-Diméthoxybenzidine-4,4'-diisocyanate",3
+174,"3,3'-Dichlorobenzidine",2B
+175,4-aminobiphényle,1
+176,Benzidine,1
+177,4-Nitrobiphényle,3
+178,Méthyleugénol,2B
+179,Peroxyde de benzoyle,3
+180,Dihydrosafrole,2B
+181,Safrole,2B
+182,"2.4-D (acide 2,4-dichlorophénoxyacétique) (voir aussi Herbicides chlorophénoxy)",2B
+183,Sulfallate,2B
+184,ortho-dichlorobenzène,3
+185,ortho-toluidine,1
+186,2.4-Xylidine,3
+187,4-Chloro-ortho-toluidine,2A
+188,"2,5-diaminotoluène",3
+189,"2,5-xylidine",3
+190,5-Chloro-ortho-toluidine,3
+191,"2,4-diaminotoluène",2B
+192,4-Chloro-ortho-phénylènediamine,2B
+193,Styrène-7.8-oxyde,2A
+194,"1,2-dibromo-3-chloropropane",2B
+195,2.3-Dibromopropan-1-ol,2B
+196,1.2.3-Trichloropropane,2A
+197,"1,3-dichloro-2-propanol",2B
+198,"3-Monochloro-1,2-propanediol",2B
+199,Acrylate de méthyle,3
+200,Éthylènethiourée,3
+201,gamma-butyrolactone,3
+202,Eugenol,3
+203,ortho-aminoazotoluène,2B
+204,Disulfirame,3
+205,Alcool furfurylique,2B
+206,Furfural,3
+207,Cumène,2B
+208,a-méthylstyrène,2B
+209,Nitrobenzène,2B
+210,Nitrotoluènes,3
+211,5-Nitro-ortho-toluidine,3
+212,"1,2-diamino-4-nitrobenzène",3
+213,2-amino-4-nitrophénol,3
+214,5-Nitro-ortho-anisidine,3
+215,N-méthyl-N.4-dinitrosoaniline,3
+216,Diméthyl-p-toluidine,2B
+217,4-vinylcyclohexène,2B
+218,Éthylbenzène,2B
+219,Styrène,2B
+220,N-nitrosopipéridine,2B
+221,"4,4'-méthylènebis (2-chloroaniline) (MOCA)",1
+222,Chlorpropham,3
+223,Dinitrosopentaméthylènetétramine,3
+224,"Base de Michler [4,4'-méthylènebis (N.N-diméthyl) benzénamine]",2B
+225,"4,4'-Méthylènediphényl diisocyanate",3
+226,"4,4'-méthylènedianiline",2B
+227,"4,4'-diaminodiphényléther",2B
+228,Diglycidyl résorcinol éther,2B
+229,méta-crésidine,3
+230,Triéthanolamine,3
+231,Phénicarbazide,3
+232,Acrylate de 2-éthylhexyle,3
+233,Adipate de di (2-éthylhexyle),3
+234,Azobenzène,3
+235,Acétaminophène,3
+236,Paracétamol,3
+237,para-Anisidine,3
+238,para-benzoquinone dioxime,3
+239,N.N'-Diéthylthiourée,3
+240,Caprolactame,4
+241,Lauroyl peroxyde,3
+242,para-dichlorobenzène,2B
+243,para-chloroaniline,2B
+244,para-phénylènediamine,3
+245,para-Quinone,3
+246,4-Vinylcyclohexène diépoxyde,2B
+247,1.2-époxybutane,2B
+248,Épichlorhydrine,2A
+249,Dibromure d'éthylène,2A
+250,1-Bromopropane,2B
+251,1.3-Butadiène,1
+252,Acroléine,3
+253,Chlorure d'allyle,3
+254,"1,2-Dichloroéthane",2B
+255,Acrylonitrile,2B
+256,Chloroacétonitrile,3
+257,Éther méthylique de chlorométhyle,1
+258,Acétate de vinyle,2B
+259,Méthyl isobutyl cétone,2B
+260,Anhydride succinique,3
+261,méta-phénylènediamine,3
+262,Résorcinol,3
+263,Bis (2-chloro-1-méthyléthyl) éther,3
+264,Mélamine,2B
+265,Toluène,3
+266,Cyclohexanone,3
+267,Phénol,3
+268,Tétrahydrofurane,2B
+269,Furan,2B
+270,"trans-1,4-dichlorobutène",3
+271,Pyridine,2B
+272,Morpholine,3
+273,Diethanolamine,2B
+274,Bis (2-chloroéthyl) éther,3
+275,2-butoxyéthanol,3
+276,Azaserine,2B
+277,Propylène,3
+278,Acide chlorendique,2B
+279,Dicofol,3
+280,Tris (2-chloroéthyl) phosphate,3
+281,Aldicarbe,3
+282,Tétrafluoroéthylène,2A
+283,"Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)",2B
+284,Quercétine,3
+285,2-Aminoanthraquinone,3
+286,Phtalate de bis (2-éthylhexyle) (voir phtalate de di (2-éthylhexyle)),unknown
+287,Di (2-éthylhexyl) phtalate,2B
+288,Hexachlorobenzène,2B
+289,Acide anthranilique,3
+290,2.4.6-Trinitrotoluène,3
+291,4-amino-2-nitrophénol,3
+292,Benzophénone,2B
+293,"3,3'-diméthoxybenzidine (ortho-dianisidine)",2B
+294,"3,3'-Diméthylbenzidine (ortho-Tolidine)",2B
+295,Anthracène,3
+296,Isosafrole,3
+297,para-crésidine,2B
+298,Catéchol,2B
+299,"2,4-dinitrotoluène",2B
+300,2-Amino-5-nitrothiazole,3
+301,N.N-Diméthylaniline,3
+302,Malathion,2A
+303,2-amino-5-nitrophénol,3
+304,Simazine,3
+305,Propham,3
+306,Phényl glycidyl éther,2B
+307,Hydroquinone,3
+308,Hydrazide maléique,3
+309,β-myrcène,2B
+310,"1,4-Dioxane",2B
+311,Chlorodibromométhane,3
+312,Acide méthylarsonique,2B
+313,Acide monométhylarsonique,2B
+314,Primidone,2B
+315,Griséofulvine,2B
+316,"Tris (2,3-dibromopropyl) phosphate",2A
+317,N-oxide de moutarde azotée,2B
+318,Chloroprène,2B
+319,Hydroxyurée,3
+320,Tétrachloroéthylène (Perchloroéthylène),2A
+321,Sulfafurazole (Sulfisoxazole),3
+322,Hydroxytoluène butylé (BHT),3
+323,Cuve jaune 4,3
+324,Pyrène,3
+325,2-méthyl-1-nitroanthraquinone (pureté incertaine),2B
+326,VRS bleu,3
+327,Oxyphenbutazone,3
+328,1-Hydroxyanthraquinone,2B
+329,OB Jaune,3
+330,Ortho-phénylphénate de sodium,2B
+331,Dibenzothiophène,3
+332,Captan,3
+333,1-naphtylamine,3
+334,N-phényl-2-naphtylamine,3
+335,Chlorhydrate de phénazopyridine,2B
+336,2.4.5-Triméthylaniline,3
+337,Thiram,3
+338,Ziram,3
+339,Acide shikimique,3
+340,Cyclamates (cyclamate de sodium),3
+341,Acide nitrilotriacétique et ses sels,2B
+342,4.4'-Thiodianiline,2B
+343,Nithiazide,3
+344,Acétate de benzyle,3
+345,para-diméthylaminoazobenzénediazo sulfonate de sodium,3
+346,Aramite®,2B
+347,Acrylate d'éthyle,2B
+348,acrylate de n-butyle,3
+349,"3,4-époxy-6-méthylcyclohexylméthyl-3,4-époxy-6-méthylcyclo-hexanecarboxylate",3
+350,Thiouracil,2B
+351,2.4-Hexadienal,2B
+352,Chlordécone (Kepone),2B
+353,Sulfate de vinblastine,3
+354,Méthyl sélénac,3
+355,Diéthyldithiocarbamate de sodium,3
+356,8-Hydroxyquinoline,3
+357,Melphalan,1
+358,Patuline,3
+359,2-mercaptobenzothiazole,2A
+360,Acide para-aminobenzoïque,3
+361,Monuron,3
+362,Dulcin,3
+363,Aziridine,2B
+364,Bischloroéthyl nitrosourée (BCNU),2A
+365,para-nitrosodiphénylamine,3
+366,Sulfate de phénelzine,3
+367,Dibenzo [a.i] pyrène,2B
+368,Dibenzo [a.h] pyrène,2B
+369,Coronene,3
+370,Benzo [ghi] pérylène,3
+371,Anthanthrène,3
+372,Dibenzo [a.l] pyrène,2A
+373,Dibenzo [h.rst] pentaphène,3
+374,Dibenzo [e.l] pyrène,3
+375,Dibenzo [a.e] pyrène,3
+376,Benzo [e] pyrène,3
+377,Naphtho [2.3-e] pyrène,3
+378,Indeno [1.2.3-cd] pyrène,2B
+379,7H-Dibenzo [c.g] carbazole,2B
+380,Benzo [c] phénanthrène,2B
+381,Benzo [g] chrysène,3
+382,Perylène,3
+383,Benz [j] acéanthrylène,2B
+384,11H-Benz [bc] acéanthrylène,3
+385,4H-Cyclopenta [def] chrysène,3
+386,Benzo [ghi] fluoranthène,3
+387,Naphtho [2.1-a] fluoranthène,3
+388,Benzo [a] fluoranthène,3
+389,Benzo [c] fluorène,3
+390,Benzo [j] fluoranthène,2B
+391,Benzo [b] fluoranthène,2B
+392,Fluoranthène,3
+393,Benzo [k] fluoranthène,2B
+394,13H-Dibenzo [a.g] fluorène,3
+395,Benz [l] acéanthrylène,3
+396,Picene,3
+397,Benzo [b] chrysène,3
+398,Dibenz [a.c] anthracène,3
+399,Triphénylène,3
+400,Chrysene,2B
+401,Dibenz [a.j] anthracène,3
+402,Dibenz [a.j] acridine,2A
+403,Dibenz [c.h] acridine,2B
+404,Benz [a] acridine,3
+405,Benz [c] acridine,3
+406,Dibenz [a.h] acridine,2B
+407,Benzo [a] fluorène,3
+408,Benzo [b] naphtho [2.1-d] thiophène,3
+409,Benzo [b] fluorène,3
+410,Dibenzo-para-dioxine,3
+411,Benzofurane,2B
+412,Méthyle parathion,3
+413,Treosulfan,1
+414,Hydrazine,2A
+415,Hydrate de chloral,2A
+416,Lasiocarpine,2B
+417,Ochratoxine A,2B
+418,Chlorambucil,1
+419,Aldrin,2A
+420,Acide aristolochique,1
+421,Acide aristolochique. plantes contenant,1
+422,Evans bleu,3
+423,Zectran,3
+424,Monocrotaline,2B
+425,Azacitidine,2A
+426,Acide caféique,2B
+427,Diazinon,2A
+428,Diazométhane,3
+429,Acide perfluorooctanoïque (APFO),2B
+430,Chlorhydrate de procarbazine,2A
+431,Triamtérène,2B
+432,Sulfure d'éthylène,3
+433,Diazépam,3
+434,Métronidazole,2B
+435,Azathioprine,1
+436,Retrorsine,3
+437,Seneciphylline,3
+438,5-méthoxypsoralène,2A
+439,2.4'-Diphenyldiamine,3
+440,Auramine,2B
+441,Rouge de méthyle,3
+442,Chlornaphazine,1
+443,N.N-Bis (2-chloroéthyl) -2-naphtylamine,1
+444,Acridine orange,3
+445,l'acide kojique,3
+446,Gaz moutarde,1
+447,Moutarde au soufre,1
+448,Tetranitrométhane,2B
+449,Chlorobenzilate,3
+450,1-Chloro-2-méthylpropène,2B
+451,Citrinin,3
+452,Kaempferol,3
+453,Merphalan,2B
+454,N- [4- (5-Nitro-2-furyl) -2-thiazolyl] acétamide,2B
+455,Chrysoidine,3
+456,Ethionamide,3
+457,"1,2-diméthylhydrazine",2A
+458,méta-dichlorobenzène,3
+459,"1,3-Dichloropropène (qualité technique)",2B
+460,Malonaldéhyde,3
+461,Bis (chlorométhyl) éther; chlorométhyl méthyl éther,1
+462,Trichloroacétonitrile,3
+463,Tris (1-aziridinyl) oxyde de phosphine,3
+464,Dichlorhydrate de Mannomustine,3
+465,1 - [(5-Nitrofurfurylidène) amino] -2-imidazolidinone,2B
+466,Glycidol,2A
+467,Succinate de doxylamine,3
+468,Chlorhydrate de semicarbazide,3
+469,3-chloro-2-méthylpropène. qualité technique,2B
+470,CI Basic Red 9,2B
+471,2-nitronaphtalène,3
+472,Acétate de méthylazoxyméthanol,2B
+473,Bromure de vinyle,2A
+474,Chlorofluorométhane,3
+475,Carbamate de méthyle,3
+476,Sulfasalazine,2B
+477,9-Nitroanthracène,3
+478,5-nitroacénaphtène,2B
+479,Oxazépam,2B
+480,"2,6-Dinitrotoluène",2B
+481,2-Nitrofluorène,2B
+482,"2,6-dichloro-para-phénylènediamine",3
+483,N.N'-Diacétylbenzidine,2B
+484,"2,4-diaminoanisole",2B
+485,N-méthyl-N-nitrosouréthane,2B
+486,3.5-dinitrotoluène,3
+487,N-nitrosodi-n-propylamine,2B
+488,carbamate de n-propyle,3
+489,1.1.1.2-Tétrachloroéthane,2B
+490,Acide dibromoacétique,2B
+491,Magenta,2B
+492,Clofibrate,3
+493,Dihydroaceanthrylène,3
+494,Hexaméthylphosphoramide,2B
+495,N-méthyl-N-nitrosourée,2A
+496,2-méthylimidazole,2B
+497,"2-amino-5- (5-nitro-2-furyl) -1,3,4-thiadiazole",2B
+498,Sulfaméthoxazole,3
+499,N-éthyl-N-nitrosourée,2A
+500,Glycidaldehyde,2B
+501,2-Nitropyrène,3
+502,Dihydroxyméthylfuratrizine (voir Panfuran S),3
+503,Panfuran S (à base de dihydroxyméthylfuratrizine),2B
+504,Aziridyl benzoquinone,3
+505,Nitrovin,3
+506,Trichlormethine (chlorhydrate de Trimustine),2B
+507,4-méthylimidazole,2B
+508,Diméthoxane,3
+509,1-méthylphénanthrène,3
+510,"4,4'-Méthylène bis (2-méthylaniline)",2B
+511,Soudan I,3
+512,Témazépam,3
+513,Diméthyl hydrogénophosphite,3
+514,3-Nitrofluoranthène,3
+515,Amarante,3
+516,N-nitrosodi-n-butylamine,2B
+517,N-nitrosopyrrolidine,2B
+518,Rhodamine 6G,3
+519,Glyphosate,2A
+520,2- (1-Aziridinyl) éthanol,3
+521,N-nitrosodiéthanolamine,2B
+522,"1,3-propane sultone",2A
+523,Dithranol,3
+524,Décabromodiphényl oxyde,3
+525,Arséniure de gallium,1
+526,Oxyde ferrique,3
+527,Trioxyde d'antimoine,2B
+528,Pentoxyde de vanadium,2B
+529,Hématite,3
+530,"Zéolithes autres que l'érionite (clinoptilolite, phillipsite.mordénite, zéolite japonaise non fibreuse, zéolites synthétiques)",3
+531,Xylènes,3
+532,"Amiante (toutes formes, y compris actinolite, amosite, anthophyllite, chrysotile, crocidolite, trémolite)",1
+533,Trioxyde de molybdène,2B
+534,Noir carbone,2B
+535,Biphényles polychlorés,1
+536,Complexe de sorbitol et d'acide citrique de fer,3
+537,Trisulfure d'antimoine,3
+538,Acide tannique et tanins,3
+539,Aflatoxines,1
+540,"1.2: 3.4-Diepoxybutane (voir monographies sur le 1,3-butadiène)",unknown
+541,Trifluraline,3
+542,"1,2-diéthylhydrazine",2B
+543,Éther méthylique de tert-butyle,3
+544,Bisphénol A diglycidyl éther (Araldite),3
+545,4-hydroxyazobenzène,3
+546,Benzyl violet 4B,2B
+547,6-méthylchrysène,3
+548,3-méthylfluoranthène,3
+549,2.3.7.8-Tétrachlorodibenzo-para-dioxine,1
+550,Nitrofen (qualité technique),2B
+551,Chlorothalonil,2B
+552,Atrazine,3
+553,Picloram,3
+554,CI Direct Noir 38,1
+555,Triéthylène glycol diglycidyl éther,3
+556,Sulfate de vincristine,3
+557,Fluometuron,3
+558,Bis (1-aziridinyl) morpholinophosphine sulfure,3
+559,"1,5-naphtalènediamine",3
+560,Diallate,3
+561,Senkirkine,3
+562,Fast Green FCF,3
+563,Mirex,2B
+564,"Bis (2,3-époxycyclopentyl) éther",3
+565,Captafol,2A
+566,Pigment rouge CI 3,3
+567,CI Direct Blue 15,2B
+568,Acide 11-aminoundécanoïque,3
+569,Disperse Bleu 1,2B
+570,CI Direct Blue 6,1
+571,Agaritine,3
+572,Sunset Yellow FCF,3
+573,HC Bleu n ° 1,2B
+574,Disperse Jaune 3,3
+575,Allyl isovalerate,3
+576,HC Rouge No. 3,3
+577,Prazepam,3
+578,Sulfate de diisopropyle,2B
+579,Dichloroacétonitrile,3
+580,bêta-butyrolactone,2B
+581,Soudan II,3
+582,"1,5-naphtalène diisocyanate",3
+583,Dibromoacétonitrile,2B
+584,"2,2-bis (bromométhyl) propane-1,3-diol",2B
+585,1-méthylchrysène,3
+586,4-méthylchrysène,3
+587,3-méthylchrysène,3
+588,2-méthylchrysène,3
+589,Ponceau 3R,2B
+590,Carmoisine,3
+591,2- (2-Formylhydrazino) -4- (5-nitro-2-furyl) thiazole,2B
+592,AF-2 [2- (2-Furyl) -3- (5-nitro-2-furyl) acrylamide],2B
+593,5-méthylchrysène,2B
+594,Ponceau MX,2B
+595,Nafenopin,2B
+596,Isophosphamide,3
+597,5- (Morpholinométhyl) -3 - [(5-nitrofurfurylidène) amino] -2-oxazolidinone,2B
+598,Bleu brillant FCF. sel disodique,3
+599,4.5'.8-Trimethylpsoralen,3
+600,Crotonaldéhyde,3
+601,Dacarbazine,2B
+602,Ponceau SX,3
+603,N-nitrosométhylvinylamine,2B
+604,5-amino acénaphtène,3
+605,Guinée vert B,3
+606,4-Chloro-méta-phénylènediamine,3
+607,Vert clair SF,3
+608,D & C Rouge No. 9,3
+609,"1,4-diamino-2-nitrobenzène",3
+610,Dibenzo [a.e] fluoranthène,3
+611,Oléate de glycidyle,3
+612,Ethyl sélénac,3
+613,1-Nitropyrène,2A
+614,Acide bromochloroacétique,2B
+615,d-Limonene,3
+616,Chlordimeform,3
+617,Citrus Red No. 2,2B
+618,Soudan Rouge 7B,3
+619,Soudan Brown RR,3
+620,CI Acid Red 114,2B
+621,Aflatoxine M1,2B
+622,Jacobine,3
+623,"5.6-Cyclopenténo-1,2-benzanthracène",3
+624,Bleu de méthylène,3
+625,Mercure et composés inorganiques du mercure,3
+626,Plutonium,1
+627,Arsenic et composés inorganiques d'arsenic,1
+628,Béryllium et composés de béryllium,1
+629,Composés de cadmium et de cadmium,1
+630,Chrome. métallique,3
+631,Composés de cobalt et de cobalt,2B
+632,Métal de cobalt sans carbure de tungstène,2B
+633,Métal de cobalt avec carbure de tungstène,2A
+634,Le dioxyde de soufre,3
+635,Stéarate de glycidyle,3
+636,Zalcitabine,2B
+637,6-Nitrochrysene,2A
+638,N-nitrosoproline,3
+639,Dichloroacétylène,3
+640,Silice. amorphe,3
+641,Acide hydrochlorique,3
+642,Brouillards d'acide inorganique fort contenant de l'acide sulfurique,1
+643,Peroxyde d'hydrogène,3
+644,Bromate de potassium,2B
+645,Chlorite de sodium,3
+646,Sélénium et composés de sélénium,3
+647,Toxaphène (Camphènes polychlorés),2B
+648,Polychlorinates terpéniques (Strobane®),3
+649,Créosotes,2A
+650,Huile brute,3
+651,Chlorure d'acriflavinium,3
+652,Oxyde de fer sacré,3
+653,Carraghénane. originaire de,3
+654,Extrait de kava,2B
+655,Polytétrafluoroéthylène,3
+656,Chlorure de polyvinyle,3
+657,Polyéthylène,3
+658,Alcool polyvinylique,3
+659,Acide polyacrylique,3
+660,Polypropylène,3
+661,Acétate de polyvinyle,3
+662,Copolymères de chlorure de vinyle et d'acétate de vinyle,3
+663,Polyvinyl pyrrolidone,3
+664,Polystyrène,3
+665,Copolymères de styrène-acrylonitrile,3
+666,Copolymères styrène-butadiène,3
+667,Complexe de fer-dextrine,3
+668,Complexe de fer-dextran,2B
+669,Mousses de polyuréthane,3
+670,Polychloroprène,3
+671,Copolymères de chlorure de vinylidène et de chlorure de vinyle,3
+672,Le polyméthacrylate de méthyle,3
+673,Polyméthylène polyphényle isocyanate,3
+674,Sulfate de cobalt et autres sels solubles de cobalt (II),2B
+675,Sterigmatocystine,2B
+676,Acide parasorbique,3
+677,Cuivre 8-hydroxyquinoline,3
+678,Tamoxifène,1
+679,N-nitrosométhyléthylamine,2B
+680,Chloramine,3
+681,Bleomycines,2B
+682,Substances à base de vitamine K,3
+683,Carbure de tungstène avec du cobalt,2A
+684,Zineb,3
+685,Attapulgite,2B
+686,Palygorskite (Attapulgite) (fibres longues> 5 micromètres),2B
+687,"Palygorskite (Attapulgite) (fibres courtes, <5 micromètres)",3
+688,Aurothioglucose,3
+689,Maneb,3
+690,Cyclochlorotine,3
+691,1- (2-chloroéthyl) -3-cyclohexyl-1-nitrosourée (CCNU),2A
+692,Medphalan,3
+693,N-nitrososarcosine,2B
+694,Rifampicine,3
+695,Le dioxyde de titane,2B
+696,"1,2-bis (chlorométhoxy) éthane",3
+697,1- (2-chloroéthyl) -3- (4-méthylcyclohexyl) -1-nitrosourée (méthyl-CCNU),1
+698,Semustine [1- (2-chloroéthyl) -3- (4-méthylcyclohexyl) -1-nitrosourée. Méthyl-CCNU],1
+699,Wollastonite,3
+700,3.3'.4.4'-Tétrachloroazobenzène,2A
+701,Ferbam,3
+702,Phosphore-32. comme phosphate,1
+703,Talc contenant des fibres asbestiformes,1
+704,Talc ne contenant pas d'amiante ou de fibres asbestiformes,3
+705,Poudre pour le corps à base de talc (utilisation périnéale de),2B
+706,Poussière de silice. cristalline. sous la forme de quartz ou de cristobalite,1
+707,Cycasin,2B
+708,Eosin,3
+709,Sepiolite,3
+710,Isatidine,3
+711,Cisplatine,2A
+712,2.2'.5.5'-tétrachlorobenzidine,3
+713,Composés de chrome (III),3
+714,CI Direct Brown 95,1
+715,N'-nitrosonornicotine (NNN) et 4- (N-nitrosométhylamino) -1- (3-pyridyl) -1-butanone (NNK),1
+716,Gyromitrine,3
+717,Fluorures (inorganiques utilisés dans l'eau de boisson),3
+718,3-Nitrobenzanthrone,2B
+719,Composés de chrome (VI),1
+720,Streptozotocine,2B
+721,3-carbéthoxypsoralène,3
+722,7-Nitrobenz [a] anthracène,3
+723,3-Nitropérylène,3
+724,Digoxin,2B
+725,Daunomycin,2B
+726,Ethyl tellurac,3
+727,T2-Trichothécène,3
+728,Luteoskyrin,3
+729,Tétrachlorvinphos,2B
+730,"1,4-diméthylphénanthrène",3
+731,Phosphure d'indium,2A
+732,3.9-Dinitrofluoranthène,2B
+733,Symphytine,3
+734,Moutarde à l'oestradiol,3
+735,Adriamycine,2A
+736,Riddelliine,2B
+737,Hycanthone mésylate,3
+738,Rugulosine,3
+739,Potassium bis (2-hydroxyéthyl) dithiocarbamate,3
+740,acide cis-9.10-époxystéarique,3
+741,fibrilles para-aramides,3
+742,Vinyl toluène,3
+743,Hydroxyanisole butylé (BHA),2B
+744,Nylon 6,3
+745,"Acepyrène (3,4-dihydrocyclopenta [cd] pyrène)",3
+746,Gemfibrozil,3
+747,trans-2 - [(Diméthylamino) méthylimino] -5- [2- (5-nitro-2-furyl) -vinyl] -1.3.4-oxadiazole,2B
+748,"A-alpha-C (2-amino-9H-pyrido [2,3-b] indole)",2B
+749,Ripazépam,3
+750,Diisocyanates de toluène,2B
+751,Hydroxysénkirkine,3
+752,Cyclopenta [cd] pyrène,2A
+753,"3.3'-Dichloro-4,4'-diaminodiphényléther",2B
+754,Prednimustine,3
+755,Acide N-nitrosofolique,3
+756,Teniposide,2A
+757,Estazolam,3
+758,N-Nitroso Hydroxyproline,3
+759,Zidovudine (AZT),2B
+760,HC Bleu No. 2,3
+761,Etoposide,1
+762,Etoposide en association avec le cisplatine et la bléomycine,1
+763,2-méthylfluoranthène,3
+764,Pentosan polysulfate de sodium,2B
+765,N'-nitrosoanabasine (NAB),3
+766,1.2.3-Tris (chlorométhoxy) propane,3
+767,Doxefazepam,3
+768,"1,6 dinitropyrène",2B
+769,"1,8-Dinitropyrène",2B
+770,L'oxyde d'étain indium,2B
+771,Amsacrine,2B
+772,Cimetidine,3
+773,Fenvalerate,3
+774,Perméthrine,3
+775,Deltaméthrine,3
+776,Carraghénane. dégradé (Poligeenan),2B
+777,Poligeenan,2B
+778,Chlorozotocine,2A
+779,N-nitrosoguvacine,3
+780,N-nitrosoguvacoline,3
+781,"1,4-bis (chlorométhoxyméthyl) benzène",3
+782,1-tert-butoxypropane-2-ol,2B
+783,2.3.4.7.8-Pentachlorodibenzofurane,1
+784,3.4.5.3'.4'-pentachlorobiphényle (PCB-126),1
+785,4-Nitropyrène,2B
+786,Aciclovir,3
+787,Biphényles polybromés,2A
+788,HC Jaune n ° 4,3
+789,Ciclosporine,1
+790,Cyclosporine,1
+791,Petasiténine,3
+792,3- (N-nitrosométhylamino) propionitrile,2B
+793,"Trp-P-1 (3-amino-1,4-diméthyl-5H-pyrido [4.3-b] indole)",2B
+794,Trp-P-2 (3-amino-1-méthyl-5H-pyrido [4.3-b] indole),2B
+795,6-Nitrobenzo [a] pyrène,3
+796,Arsenobétaïne et autres composés organiques de l'arsenic qui ne sont pas métabolisés chez l'humain,3
+797,Mitoxantrone,2B
+798,Erionite,1
+799,Glu-P-2 (2-aminodipyrido [1.2-a: 3'.2'-d] imidazole),2B
+800,Glu-P-1 (2-amino-6-méthyldipyrido [1.2-a: 3'.2'-d] imidazole),2B
+801,"MeA-alpha-C (2-amino-3-méthyl-9H-pyrido [2,3-b] indole)",2B
+802,Huiles de schiste,1
+803,Condensat de diéthanolamine d'huile de noix de coco,2B
+804,Didanosine,3
+805,N'-nitrosoanatabine (NAT),3
+806,"1,3-Dinitropyrène",2B
+807,IQ (2-amino-3-méthylimidazo [4.5-f] quinoléine),2A
+808,"MeIQ (2-amino-3,4-diméthylimidazo [4,5-f] quinoléine)",2B
+809,3-Chloro-4- (dichlorométhyl) -5-hydroxy-2 (5H) -furanone,2B
+810,MeIQx (2-Amino-3.8-diméthylimidazo [4.5-f] quinoxaline),2B
+811,Droloxifène,3
+812,Bromochloroacétonitrile,3
+813,3- (N-nitrosométhylamino) propionaldéhyde,3
+814,Pyrido [3.4-c] psoralène,3
+815,7-méthylpyrido [3.4-c] psoralène,3
+816,Ptaquiloside,3
+817,Torémifène,3
+818,Extrait de Ginkgo biloba,2B
+819,N-méthylolacrylamide,3
+820,Microcystine-LR,2B
+821,PhIP (2-amino-1-méthyl-6-phénylimidazo [4.5-b] pyridine),2B
+822,"3,7-dinitrofluoranthène",2B
+823,Pioglitazone,2A
+824,Naphtho [1.2-b] fluoranthène,3
+825,Fumonisine B <sub> 1 </ sub>,2B
+826,Fusarium moniliforme. les toxines dérivées de (fumonisine B <sub> 1 </ sub> .fumonisine B <sub> 2 </ sub> .et de fusarine C),2B
+827,Nodularines,3
+828,Rosiglitazone,3
+829,Nanotubes de carbone. MWCNT-7 à parois multiples,2B
+830,Nanotubes de carbone. multi-parois. autre que MWCNT-7,3
+831,Nanotubes de carbone. à simple paroi,3
+832,Nanotubes de carbone à parois multiples MWCNT-7,2B
+833,Nanotubes de carbone à parois multiples autres que le MWCNT-7,3
+834,Nanotubes de carbone à simple paroi,3
+835,Carbure de silicium. fibreux,2B
+836,Les moustaches de carbure de silicium,2A
+837,Processus d'Acheson. exposition professionnelle associée à,1
+838,Brouillards d'acide. fort inorganique,1
+839,Fibres acryliques,3
+840,Copolymères acrylonitrile-butadiène-styrène,3
+841,Boissons alcoolisées,1
+842,Aloe vera. extrait de feuilles entières,2B
+843,Anesthésiques volatil,3
+844,Stéroïdes androgènes (anabolisants),2A
+845,Écrou Areca,1
+846,Benzidine. colorants métabolisés en,1
+847,Bisulfites,3
+848,Bracken fougère,2B
+849,Eau potable chlorée,3
+850,Paraffines chlorées de longueur moyenne de chaîne carbonée C12 et degré moyen de chloration d'environ 60%,2B
+851,Chlorophénols (voir Polychlorophénols),unknown
+852,Herbicides chlorophénoxy,2B
+853,Café (boire),3
+854,Colorants métabolisés en benzidine,1
+855,Amphibole fibroro-édénite,1
+856,"Fusarium graminearum. F. culmorum. et F. crookwellense. toxines dérivées de (zéaralénone, deoxynivalénol, nivalénol et fusarénone X)",3
+857,Fusarium sporotrichioides. toxines dérivées de (toxine T-2),3
+858,Goldenseal poudre de racine,2B
+859,Hexachlorocyclohexanes,2B
+860,Sels d'hypochlorite,3
+861,Huiles d'isopropyle,3
+862,Racine de garance (Rubia tinctorum),3
+863,Camarade. pas très chaud (boire),3
+864,Métabisulfites,3
+865,Composés de méthylmercure,2B
+866,Extraits de microcystis,3
+867,Huiles minérales très raffiné,3
+868,Huiles minérales non traité ou légèrement traité,1
+869,Fibres modacryliques,3
+870,Nitrate ou nitrite (ingéré) dans des conditions entraînant une nitrosation endogène,2A
+871,Matériaux polymères organiques,3
+872,Phénacétine. mélanges analgésiques contenant,1
+873,Légumes marinés (asiatique traditionnelle),2B
+874,Biphényles polychlorés. semblable à la dioxine. avec un facteur d'équivalence de toxicité (TEF) selon l'OMS (PCB 77. 81. 105. 114. 118. 123. 126. 156. 157. 167. 169. 189),1
+875,Dibenzofuranes polychlorés (voir 2.3.4.7.8-Pentachlorodibenzofurane),3
+876,Dibenzo-para-dioxines polychlorées (autres que 2.3.7.8-tétrachlorodibenzo-para-dioxine),3
+877,Viande transformée (consommation de),1
+878,Sels de proflavine,3
+879,Progestatifs,2B
+880,Viande rouge (consommation de),2A
+881,Fibres céramiques réfractaires,2B
+882,Industrie de fabrication de caoutchouc,1
+883,Poisson salé. Style chinois,1
+884,Fibres spéciales telles que le verre E et les fibres de verre «475»,2B
+885,Sulfites,3
+886,thé,3
+887,Les sels de tétrakis (hydroxyméthyl) phosphonium,3
+888,Toxines dérivées de certaines espèces de Fusarium,2B
+889,Uréthane,2A

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your Facebook App ID. See README. -->
+    <string name="facebook_app_id">812222648980495</string>
+    <!--
+      Your Twitter Key and Secret, see README.
+    -->
+    <string name="twitter_consumer_key">7xuENgjztCtdiL12lxuqKXpTv</string>
+    <string name="twitter_consumer_secret">idpPYueQz0MwZxxWkQt8hoi7HCvTFOyVEi58AC9nGfQJPWKWum</string>
+
+</resources>

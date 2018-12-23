@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradients"
+    tools:context="ch.epfl.sweng.qeeqbii.chat.SettingsActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/settings_image"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/default_avatar" />
+
+    <TextView
+        android:id="@+id/settings_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/display_name"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:layout_below="@+id/settings_image"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/settings_age_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="@string/set_age"
+        android:textColor="@android:color/widget_edittext_dark"
+        android:layout_alignBaseline="@+id/settings_allergies_btn"
+        android:layout_alignBottom="@+id/settings_allergies_btn"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:id="@+id/settings_allergies_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="@string/set_allergies"
+        android:textColor="@android:color/widget_edittext_dark"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/settings_degout"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/settings_degout_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="@string/set_do_not_like"
+        android:textColor="@android:color/widget_edittext_dark"
+        android:layout_above="@+id/back"
+        android:layout_toEndOf="@+id/settings_age_btn"
+        android:layout_marginStart="13dp" />
+
+    <Button
+        android:id="@+id/settings_status_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/change_status"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/settings_image_btn"
+        android:layout_alignStart="@+id/settings_image_btn" />
+
+    <Button
+        android:id="@+id/settings_image_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/white"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="@string/change_image"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/settings_name"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/settings_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_status"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/settings_status_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/settings_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_age"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/settings_status"
+        android:layout_alignEnd="@+id/settings_image" />
+
+    <TextView
+        android:id="@+id/settings_allergie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_allergies"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/settings_age"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/settings_degout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/default_degout"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/settings_allergie"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_button"
+        android:layout_below="@+id/settings_age_btn"
+        android:layout_alignEnd="@+id/settings_image_btn" />
+</RelativeLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scan"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_flip_black_24dp"
+        android:title="@string/scan_barcode" />
+
+
+    <item
+        android:id="@+id/nav_shopping_list"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="@string/shopping_list" />
+
+
+    <item
+        android:id="@+id/nav_scanning_history"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_youtube_searched_for_black_24dp"
+        android:title="@string/show_saved_products_activity" />
+
+    <item
+        android:id="@+id/nav_stats"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_timeline_black_24dp"
+        android:title="@string/statistics" />
+
+    <item
+        android:id="@+id/nav_comparison"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_timeline_black_24dp"
+        android:title="@string/compare_products" />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/Chat" />
+
+    <item
+        android:id="@+id/nav_didyouknow"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_add_black_24dp"
+        android:title="@string/did_you_know" />
+
+
+    <item
+        android:id="@+id/nav_user_profile"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_add_black_24dp"
+        android:title="@string/user_profile" />
+
+
+
+    <item
+        android:id="@+id/nav_other"
+        android:onClick="sliderGoToActivity"
+        android:icon="@drawable/ic_add_black_24dp"
+        android:title="@string/other" />
+
+
+</menu>

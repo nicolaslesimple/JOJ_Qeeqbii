@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ch.epfl.sweng.qeeqbii.activities.MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp"
+    android:id="@+id/cancer_query_design">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <EditText
+            android:id="@+id/cancerDataQueryTextField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/type_query_here"
+            android:inputType="textPersonName"/>
+
+
+        <LinearLayout
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/cancerDataQueryButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="0dp"
+                android:layout_weight="0.4"
+                android:onClick="processPerfectMatchQueryResult"
+                android:text="@string/perfect_match_nquery" />
+
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/levenshteinCancerDataQueryButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="8dp"
+                android:layout_weight="0.4"
+                android:onClick="processLevenshteinQueryResult"
+                android:text="@string/levenshtein_nquery" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/ratcliffCancerDataQueryButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="0.5"
+                android:onClick="processRatcliffQueryResult"
+                android:text="@string/ratcliff_nquery" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/set_threshold"
+                android:textSize="15sp" />
+
+            <EditText
+                android:labelFor="@+id/ratcliff_threshold_text"
+                android:id="@+id/ratcliff_threshold_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:inputType="textPersonName"
+                android:text="@string/default_ratcliff_theshold" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/queryCancerDataAnswerArea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/query_answer"/>
+    </LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradients"
+        app:menu="@menu/nav_menu"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="0dp"
+        android:id="@+id/nav_view_data_query">
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

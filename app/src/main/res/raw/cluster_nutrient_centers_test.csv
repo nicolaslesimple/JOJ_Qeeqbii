@@ -1,0 +1,5 @@
+category,Énergie (kJ),Sel (g),Protéines (g),Sucres (g),Glucides (g),Matières grasses (g),Acides gras saturés (g),Fibres alimentaires (g),Biotine (µg),Vitamine B1 (Thiamine) (mg),Vitamine E (Tocopherol) (mg),Acide folique (µg),Vitamine A (µg),Vitamine D (Cholacalciferol) (µg),Vitamine C (Acide ascorbique) (mg),Vitamine B6 (Pyridoxine) (mg),Vitamine B5 (acide pantothénique) (mg),Vitamine B3 (Niacine) (mg),Vitamine B2 (Riboflavine) (mg),Vitamine B12 (Cobalamine) (µg)
+/TEST1/FROMAGES,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+/TEST2/OEUFS,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+MEAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STD,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

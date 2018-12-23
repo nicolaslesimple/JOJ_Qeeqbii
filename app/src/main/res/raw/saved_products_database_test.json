@@ -1,0 +1,25 @@
+{
+  "Dates": [
+    {
+      "date" : "13/11/2017",
+      "products" : [
+        {
+          "name": "Tartiflette",
+          "barcode": "0000000000",
+          "ingredients": "Rebloch, Rebloch, Rebloch",
+          "nutrients": "Sel: 0.65g",
+          "quantity": "4000g",
+          "cluster type": "FROMAGES"
+        },
+        {
+          "name": "Tartiflette again",
+          "barcode": "0000000001",
+          "ingredients": "Rebloch, Rebloch, Rebloch et Reblochh",
+          "nutrients": "Sel: 0.650g",
+          "quantity": "10000g",
+          "cluster type": "FROMAGES"
+        }
+      ]
+    }
+  ]
+}
